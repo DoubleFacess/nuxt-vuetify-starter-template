@@ -1,4 +1,4 @@
-# di-falco-new-layout
+# nuxt-vuetufy starter kit
 
 ## Build Setup
 
