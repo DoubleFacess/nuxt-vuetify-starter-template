@@ -1,4 +1,4 @@
-# nuxt-vuetufy starter kit
+# nuxt-vuetify starter kit
 
 ## Build Setup
 
